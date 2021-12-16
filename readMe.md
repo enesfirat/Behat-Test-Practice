@@ -159,6 +159,8 @@ Feature: search Wikipedia
     {
         sleep($seconds);
     }
+
+
 ~~~
 
 
@@ -174,18 +176,24 @@ After writing the feature and the Behat scenario, it's time to run Behat test.
 In terminal go to the root folder and run
 
 ~~~
+
 ./bin/manager start
+
 ~~~
 
 Open a new terminal tab and run
 
 ~~~
+
 ./bin/behat
+
 ~~~
 
 You should have an output like below
 
+
 ~~~
+
 Feature: search Wikipedia
   In order to learn about BDD
   As a passionate developer
