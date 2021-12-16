@@ -1,4 +1,4 @@
-#Behat Test Practice
+# Behat Test Practice
 This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of the [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.
 
 This is a practice repo for beginner Behat'ers.
@@ -25,13 +25,13 @@ and
 features/search.feature
 
 -----------------------------------------------------
-##Requirements
+## Requirements
 
 [Composer](composer.org)
 
 -----------------------------------------------------
 
-##Installation
+## Installation
 In your terminal, go to the root folder of this repo and run
 
 ``
@@ -71,7 +71,7 @@ Please make sure your "features" folder is in your root folder, **not in your ve
 -----------------------------------------------------
 
 
-##Running Behat
+## Running Behat
 ``
 ./bin/behat --append-snippets
 ``
@@ -81,7 +81,7 @@ It is helpful before you write the actual functions.
 -----------------------------------------------------
 
 
-##Possible Errors
+## Possible Errors
 
 **Please make sure you have**
 
@@ -104,6 +104,6 @@ type your user password and paste
 ``
 to any empty row.
 
-##Credits
+## Credits
 
 This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of the [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.

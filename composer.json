@@ -9,6 +9,6 @@
     "bossa/phpspec2-expect": "1.*"
   },
   "config": {
-    "bin-dir": "bin",
+    "bin-dir": "bin"
   }
 }
