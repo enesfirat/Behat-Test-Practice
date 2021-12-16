@@ -165,7 +165,6 @@ You will notice the comment lines above each function. They might look like comm
 (For further understanding of Gherkin syntax, you can read this [article](https://docs.behat.org/en/latest/user_guide/gherkin.html).)
 -----------------------------------------------------
 
-
 ## Running Behat
 After writing the feature and the Behat scenario, it's time to run Behat test.
 
