@@ -9,6 +9,12 @@
     "bossa/phpspec2-expect": "1.*"
   },
   "config": {
-    "bin-dir": "bin"
+    "bin-dir": "bin",
+    "features-dir": "featuresReady"
+  },
+  "scripts": {
+    "post-autoload-dump": [
+      "cp -r vendor/behat/behat/features features"
+    ]
   }
 }
