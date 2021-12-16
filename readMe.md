@@ -161,8 +161,11 @@ Feature: search Wikipedia
     }
 ~~~
 
+
+
 You will notice the comment lines above each function. They might look like common comment lines, but they aren't. They communicate with "search.feature" file. When you check "search.feature" file, you will notice blue colored texts, which are used in **"FeatureContext.php"** as **inputs** of the functions.
 (For further understanding of Gherkin syntax, you can read this [article](https://docs.behat.org/en/latest/user_guide/gherkin.html).)
+
 -----------------------------------------------------
 
 ## Running Behat
