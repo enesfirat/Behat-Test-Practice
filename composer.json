@@ -1,0 +1,14 @@
+{
+  "require-dev": {
+    "behat/behat": "~3.0.13",
+    "behat/mink": "~1.6.0",
+    "behat/mink-extension": "~2.0.0",
+    "behat/mink-goutte-driver": "~1.1.0",
+    "behat/mink-selenium2-driver": "*",
+    "peridot-php/webdriver-manager": "dev-master",
+    "bossa/phpspec2-expect": "1.*"
+  },
+  "config": {
+    "bin-dir": "bin",
+  }
+}

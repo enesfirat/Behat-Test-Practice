@@ -1,0 +1,6 @@
+vendor
+composer.lock
+tmp
+docs
+.idea
+*.phar
