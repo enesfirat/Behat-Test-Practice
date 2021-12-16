@@ -10,7 +10,7 @@
   },
   "config": {
     "bin-dir": "bin",
-    "features-dir": "featuresReady"
+    "features-dir": "features"
   },
   "scripts": {
     "post-autoload-dump": [
