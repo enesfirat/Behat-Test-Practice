@@ -124,7 +124,7 @@ Feature: search Wikipedia
 * Write the functions for the search feature. It should be something like the snippet below.
 
 
-  ~~~
+~~~
     /**
      * @Given I am in Wikipedia
      */
