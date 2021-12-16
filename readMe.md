@@ -1,5 +1,5 @@
 #Behat Test Practice
-This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.
+This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of the [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.
 
 This is a practice repo for beginner Behat'ers.
 
@@ -11,12 +11,12 @@ When you run Behat with`` ./bin/behat``
 
 2)It will go to https://en.wikipedia.org.
 
-3)It will type "Behavior-driven development" to search bar and click the search button.
+3)It will type "Behavior-driven development" to the search bar and click the search button.
 
 4)It will wait for 5 seconds.
 
 
-**Before you start your practice, you can delete the files** 
+**Before you start your practice, you can delete the files**
 
 features/bootstrap/FeaturesContext.php
 
@@ -32,7 +32,7 @@ features/search.feature
 -----------------------------------------------------
 
 ##Installation
-In your terminal, go to root folder of this repo and run
+In your terminal, go to the root folder of this repo and run
 
 ``
 composer install
@@ -53,7 +53,7 @@ Then you should run
 to update webdriver manager.
 
 
-Command below will show you what commands you can use on Webdriver Manager.
+The command below will show you what commands you can use on Webdriver Manager.
 
 ``
 ./bin manager
@@ -66,7 +66,7 @@ To initialize Behat you should run
 ``
 
 
-Please make sure your features folder is in your root folder, **not in your vendor folder**.
+Please make sure your "features" folder is in your root folder, **not in your vendor folder**.
 
 -----------------------------------------------------
 
@@ -83,7 +83,7 @@ It is helpful before you write the actual functions.
 
 ##Possible Errors
 
-**Please make sure you have** 
+**Please make sure you have**
 
 ``
 127.0.0.1 localhost
@@ -91,13 +91,13 @@ It is helpful before you write the actual functions.
 
 **in your /etc/hosts file.**
 
-To check it you should go to terminal and run
+To check it, you should go to the terminal and run
 
 ``
 sudo vi /etc/hosts
 ``
 
-type your user password and paste 
+type your user password and paste
 
 ``
 127.0.0.1 localhost
@@ -106,4 +106,4 @@ to any empty row.
 
 ##Credits
 
-This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.
+This repo is created for following the steps on the YouTube [video](https://www.youtube.com/watch?v=j7RHtNePY3Y) of the [MageCasts.io](https://www.youtube.com/channel/UCrofx7kKaBLXO4cqK6-tn0g) channel.
